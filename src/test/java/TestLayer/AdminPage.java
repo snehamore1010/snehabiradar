@@ -6,6 +6,7 @@ public class AdminPage {
 		
 		System.out.println("Admin Page Test cases");
 
+		
 	}
 
 }
